@@ -1,3 +1,10 @@
-# Functional-Javascript-Workshop
+# My NodeSchool Solutions
 
--- Functional Javascript exercises solved from the Functional-Javascript-Workshop package: npm install -g functional-javascript-workshop
+My Solutions to the NodeSchool problem sets. 
+
+### List problem sets. 
+
+- [x] Javascripting
+- [ ] Functional-Javascript-Workshop
+- [ ] learnyounode
+
