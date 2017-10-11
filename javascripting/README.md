@@ -1,9 +1,11 @@
 # Javascripting
 
-Install : ```npm install -g javascripting
-```
-
 My solutions for [NodeSchool](http://nodeschool.io)'s [Javascripting](http://nodeschool.io/#javascripting) problem sets.
+
+Install : 
+
+```npm install -g javascripting
+```
 
 *  [VARIABLES](solutions/variables.js)                                                   
 *  [STRINGS](solutions/strings.js)                                                     
