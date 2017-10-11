@@ -4,7 +4,8 @@ My solutions for [NodeSchool](http://nodeschool.io)'s [Javascripting](http://nod
 
 Install : 
 
-```npm install -g javascripting
+```javascript
+npm install -g javascripting
 ```
 
 *  [VARIABLES](solutions/variables.js)                                                   
