@@ -25,6 +25,6 @@ npm install -g javascripting
 *  [OBJECT PROPERTIES](solutions/object-properties.js)                                      
 *  [FUNCTIONS](solutions/function.js)     
 *  [FUNCTION ARGUMENTS](solutions/function-arguments.js)                                        
-*  [SCOPE](solutons/scope.js)                                                    
+*  [SCOPE](solutions/scope.js)                                                    
 
 
